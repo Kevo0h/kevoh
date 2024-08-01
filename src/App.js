@@ -12,6 +12,7 @@ function App() {
         <Navbar />
 
         <Routes>
+          <Route path="/kevoh" element={<Homepage />} />
           <Route path="/" element={<Homepage />} />
           <Route path="/QueHacemos" element={<QueHacemos />} />
           <Route path="/Servicios" element={<Servicios />} />
