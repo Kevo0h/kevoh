@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/kevoh/static/css/main.cc081be5.css",
-    "main.js": "/kevoh/static/js/main.65f94488.js",
-    "static/js/453.2c440dc0.chunk.js": "/kevoh/static/js/453.2c440dc0.chunk.js",
+    "main.js": "/kevoh/static/js/main.bc28e08e.js",
+    "static/js/453.026fdd5d.chunk.js": "/kevoh/static/js/453.026fdd5d.chunk.js",
     "index.html": "/kevoh/index.html",
     "main.cc081be5.css.map": "/kevoh/static/css/main.cc081be5.css.map",
-    "main.65f94488.js.map": "/kevoh/static/js/main.65f94488.js.map",
-    "453.2c440dc0.chunk.js.map": "/kevoh/static/js/453.2c440dc0.chunk.js.map"
+    "main.bc28e08e.js.map": "/kevoh/static/js/main.bc28e08e.js.map",
+    "453.026fdd5d.chunk.js.map": "/kevoh/static/js/453.026fdd5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cc081be5.css",
-    "static/js/main.65f94488.js"
+    "static/js/main.bc28e08e.js"
   ]
 }
