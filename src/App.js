@@ -8,11 +8,10 @@ import Contacto from "./components/Contacto";
 function App() {
   return (
     <div className=" h-screen flex flex-col">
-      <Router>
+      <Router basename="/kevoh">
         <Navbar />
 
         <Routes>
-          <Route path="/kevoh" element={<Homepage />} />
           <Route path="/" element={<Homepage />} />
           <Route path="/QueHacemos" element={<QueHacemos />} />
           <Route path="/Servicios" element={<Servicios />} />
