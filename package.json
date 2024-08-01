@@ -15,7 +15,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"
   },
-  "homepage": "https://kevo0h.github.io/kr",
+  "homepage": "https://kevo0h.github.io/kevoh",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
